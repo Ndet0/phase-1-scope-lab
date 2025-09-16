@@ -1,0 +1,7 @@
+- [ ] Implement global variable customerName = 'bob'
+- [ ] Implement function upperCaseCustomerName()
+- [ ] Implement global variable bestCustomer
+- [ ] Implement function setBestCustomer()
+- [ ] Implement function overwriteBestCustomer(value)
+- [ ] Implement const leastFavoriteCustomer
+- [ ] Implement function changeLeastFavoriteCustomer()
